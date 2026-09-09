@@ -1,0 +1,121 @@
+"Canonical","DEG","Freq"
+"B cells","C1Q+ Monocytes",0
+"Dendritic cells","C1Q+ Monocytes",0
+"Monocytes","C1Q+ Monocytes",0
+"Myeloid cells","C1Q+ Monocytes",138
+"NK cells","C1Q+ Monocytes",0
+"Platelets","C1Q+ Monocytes",0
+"T cells","C1Q+ Monocytes",0
+"Unresolved","C1Q+ Monocytes",0
+"B cells","Classical Monocytes",0
+"Dendritic cells","Classical Monocytes",0
+"Monocytes","Classical Monocytes",683
+"Myeloid cells","Classical Monocytes",0
+"NK cells","Classical Monocytes",0
+"Platelets","Classical Monocytes",0
+"T cells","Classical Monocytes",0
+"Unresolved","Classical Monocytes",0
+"B cells","Conventional Dendritic Cells",0
+"Dendritic cells","Conventional Dendritic Cells",87
+"Monocytes","Conventional Dendritic Cells",0
+"Myeloid cells","Conventional Dendritic Cells",0
+"NK cells","Conventional Dendritic Cells",0
+"Platelets","Conventional Dendritic Cells",0
+"T cells","Conventional Dendritic Cells",0
+"Unresolved","Conventional Dendritic Cells",0
+"B cells","Gamma-delta Cytotoxic T cells",0
+"Dendritic cells","Gamma-delta Cytotoxic T cells",0
+"Monocytes","Gamma-delta Cytotoxic T cells",0
+"Myeloid cells","Gamma-delta Cytotoxic T cells",0
+"NK cells","Gamma-delta Cytotoxic T cells",0
+"Platelets","Gamma-delta Cytotoxic T cells",0
+"T cells","Gamma-delta Cytotoxic T cells",459
+"Unresolved","Gamma-delta Cytotoxic T cells",0
+"B cells","MAIT / CD161-like T cells",0
+"Dendritic cells","MAIT / CD161-like T cells",0
+"Monocytes","MAIT / CD161-like T cells",0
+"Myeloid cells","MAIT / CD161-like T cells",0
+"NK cells","MAIT / CD161-like T cells",0
+"Platelets","MAIT / CD161-like T cells",0
+"T cells","MAIT / CD161-like T cells",130
+"Unresolved","MAIT / CD161-like T cells",0
+"B cells","Monocytes",0
+"Dendritic cells","Monocytes",0
+"Monocytes","Monocytes",619
+"Myeloid cells","Monocytes",0
+"NK cells","Monocytes",0
+"Platelets","Monocytes",0
+"T cells","Monocytes",0
+"Unresolved","Monocytes",0
+"B cells","Myeloid cells",0
+"Dendritic cells","Myeloid cells",0
+"Monocytes","Myeloid cells",0
+"Myeloid cells","Myeloid cells",583
+"NK cells","Myeloid cells",0
+"Platelets","Myeloid cells",0
+"T cells","Myeloid cells",0
+"Unresolved","Myeloid cells",0
+"B cells","Naive B cells",468
+"Dendritic cells","Naive B cells",0
+"Monocytes","Naive B cells",0
+"Myeloid cells","Naive B cells",0
+"NK cells","Naive B cells",0
+"Platelets","Naive B cells",0
+"T cells","Naive B cells",0
+"Unresolved","Naive B cells",0
+"B cells","Naive CD4 T cells",0
+"Dendritic cells","Naive CD4 T cells",0
+"Monocytes","Naive CD4 T cells",0
+"Myeloid cells","Naive CD4 T cells",0
+"NK cells","Naive CD4 T cells",0
+"Platelets","Naive CD4 T cells",0
+"T cells","Naive CD4 T cells",965
+"Unresolved","Naive CD4 T cells",0
+"B cells","NK cells",0
+"Dendritic cells","NK cells",0
+"Monocytes","NK cells",0
+"Myeloid cells","NK cells",0
+"NK cells","NK cells",268
+"Platelets","NK cells",0
+"T cells","NK cells",0
+"Unresolved","NK cells",0
+"B cells","NK-like cells",0
+"Dendritic cells","NK-like cells",0
+"Monocytes","NK-like cells",0
+"Myeloid cells","NK-like cells",0
+"NK cells","NK-like cells",161
+"Platelets","NK-like cells",0
+"T cells","NK-like cells",0
+"Unresolved","NK-like cells",0
+"B cells","Plasma cells",141
+"Dendritic cells","Plasma cells",0
+"Monocytes","Plasma cells",0
+"Myeloid cells","Plasma cells",0
+"NK cells","Plasma cells",0
+"Platelets","Plasma cells",0
+"T cells","Plasma cells",0
+"Unresolved","Plasma cells",0
+"B cells","Platelets",0
+"Dendritic cells","Platelets",0
+"Monocytes","Platelets",0
+"Myeloid cells","Platelets",0
+"NK cells","Platelets",0
+"Platelets","Platelets",15
+"T cells","Platelets",0
+"Unresolved","Platelets",0
+"B cells","Regulatory / Activated CD4 T cells",0
+"Dendritic cells","Regulatory / Activated CD4 T cells",0
+"Monocytes","Regulatory / Activated CD4 T cells",0
+"Myeloid cells","Regulatory / Activated CD4 T cells",0
+"NK cells","Regulatory / Activated CD4 T cells",0
+"Platelets","Regulatory / Activated CD4 T cells",0
+"T cells","Regulatory / Activated CD4 T cells",397
+"Unresolved","Regulatory / Activated CD4 T cells",0
+"B cells","Unresolved",0
+"Dendritic cells","Unresolved",0
+"Monocytes","Unresolved",0
+"Myeloid cells","Unresolved",0
+"NK cells","Unresolved",0
+"Platelets","Unresolved",0
+"T cells","Unresolved",0
+"Unresolved","Unresolved",38

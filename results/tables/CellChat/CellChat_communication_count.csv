@@ -1,0 +1,16 @@
+"","C1Q+ Monocytes","Classical Monocytes","Conventional Dendritic Cells","Gamma-delta Cytotoxic T cells","MAIT / CD161-like T cells","Monocytes","Myeloid cells","Naive B cells","Naive CD4 T cells","NK cells","NK-like cells","Plasma cells","Platelets","Regulatory / Activated CD4 T cells","Unresolved"
+"C1Q+ Monocytes",43,49,48,11,26,48,26,31,35,36,21,15,4,33,33
+"Classical Monocytes",42,53,49,12,28,52,29,36,32,42,23,15,10,33,34
+"Conventional Dendritic Cells",48,61,54,13,28,59,28,35,39,42,22,17,8,37,38
+"Gamma-delta Cytotoxic T cells",24,27,28,8,15,27,11,24,30,27,14,7,1,24,17
+"MAIT / CD161-like T cells",25,31,29,9,17,31,15,31,17,34,16,9,7,13,17
+"Monocytes",49,59,57,14,32,58,31,38,36,43,25,17,10,36,38
+"Myeloid cells",27,32,25,6,17,29,17,25,20,28,13,6,4,19,20
+"Naive B cells",20,29,25,8,12,27,14,24,18,27,11,8,7,17,18
+"Naive CD4 T cells",15,16,14,6,10,14,10,23,13,24,11,4,3,7,10
+"NK cells",21,28,28,7,14,27,13,25,17,29,13,9,6,15,16
+"NK-like cells",9,15,11,4,10,14,8,19,13,25,12,3,5,7,8
+"Plasma cells",30,40,32,10,20,38,18,27,34,31,14,11,4,29,20
+"Platelets",14,20,18,5,13,20,13,23,16,25,12,6,6,7,12
+"Regulatory / Activated CD4 T cells",18,24,21,6,13,24,14,27,15,27,12,5,5,11,14
+"Unresolved",30,33,34,8,25,34,13,28,30,31,16,12,4,26,28

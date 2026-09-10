@@ -1,9 +1,0 @@
-"metric","value"
-"Initial cells",NA
-"Cells after QC",5550
-"Cells after doublet removal",5152
-"Number of clusters",16
-"Number of HVGs",2000
-"Number of annotated cell types",15
-"Number of resolved CellChat cell types",14
-"Number of CellChat pathways",72
